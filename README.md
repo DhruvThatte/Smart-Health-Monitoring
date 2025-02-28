@@ -42,7 +42,7 @@ To build this project, you need the following components:
 ## 🖥 Software Requirements  
 ## Before you proceed, ensure you have installed the following:  
 
-✅ **Arduino IDE** – For programming the ESP32
+✅ **Arduino IDE** – For programming the ESP32<br>
 ✅ **ESP32 Board Package** – Add ESP32 support in Arduino IDE  
 ✅ **Node-RED** – Enables cloud communication  
 ✅ **OneWire & DallasTemperature** – For DS18B20 sensor  
